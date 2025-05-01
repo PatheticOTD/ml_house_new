@@ -209,7 +209,8 @@
               "title": "Notes Review Queue"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -228,7 +229,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c9175772f3c4eb3",
+  "active": "42d717bfb956689c",
   "lastOpenFiles": [
     "test.txt",
     "books/nlp_intro.pdf",
