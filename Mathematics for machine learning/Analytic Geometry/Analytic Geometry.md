@@ -18,5 +18,8 @@ $$
 ##### General Inner Products
 В обычных [[Linear Algebra#Linear Mappings]] на вход функции подавался только один параметр. В билинейном отображении два аргумента, и оба линейные:
 $$
-\Omega(\lambda x + ) 
+\Omega(\lambda x + \psi y, z)= \lambda\Omega(x, z) + \psi\Omega(y, z)
+$$
+$$
+\Omega(x, \lambda y + \psi z) = \lambda\Omega(x, y) + \psi\Omega(x, z)
 $$
