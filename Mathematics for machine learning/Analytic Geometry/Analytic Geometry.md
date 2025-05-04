@@ -11,3 +11,9 @@ $$
 Виды норм:
 1. [[Manhattan Norm]]
 2. [[Euclidean Norm]]
+
+#### Inner Products
+##### Dot Product
+[[Multiplication]]
+##### General Inner Products
+В обычном [[Linear Algebra]]
