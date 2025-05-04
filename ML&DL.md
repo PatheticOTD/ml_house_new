@@ -1,4 +1,5 @@
 [[Linear Algebra]]
+[[Analytic Geometry]]
 
 # Classic ML:
 #### Алгоритмы кластеризации:
