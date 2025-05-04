@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Manhattan Norm.md",
+                "file": "Mathematics for machine learning/Analytic Geometry/Analytic Geometry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Manhattan Norm"
+              "title": "Analytic Geometry"
             }
           }
         ],
@@ -230,9 +230,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2019355b42497978",
+  "active": "6fa1abb60e86188d",
   "lastOpenFiles": [
     "Mathematics for machine learning/Analytic Geometry/Analytic Geometry.md",
+    "Euclidean Norm.md",
     "Manhattan Norm.md",
     "Pasted image 20250504122531.png",
     "ML&DL.md",
@@ -275,7 +276,6 @@
     "ML/AdaBoost.md",
     "ML/критерий джини и gini impurity.md",
     "ML/Ансамбли.md",
-    "Mathematics for machine learning/Statistics/Bootstrap.md",
     "Mathematics for machine learning/Bayesian statistics",
     "Mathematics for machine learning/Linear Algebra"
   ]
