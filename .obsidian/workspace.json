@@ -259,6 +259,7 @@
   },
   "active": "42d717bfb956689c",
   "lastOpenFiles": [
+    "DL/CNN.md",
     "ML&DL.md",
     "DL/cosine.md",
     "books/nlp_intro.pdf",
@@ -302,7 +303,6 @@
     "ML/Ансамбли.md",
     "Mathematics for machine learning/Statistics/Bootstrap.md",
     "ML/RocAuc.md",
-    "ML/Recall and Precision.md",
     "Mathematics for machine learning/Bayesian statistics",
     "Mathematics for machine learning/Linear Algebra"
   ]
