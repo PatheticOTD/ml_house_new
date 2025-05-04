@@ -16,4 +16,7 @@ $$
 ##### Dot Product
 [[Multiplication]]
 ##### General Inner Products
-В обычном [[Linear Algebra]]
+В обычных [[Linear Algebra#Linear Mappings]] на вход функции подавался только один параметр. В билинейном отображении два аргумента, и оба линейные:
+$$
+\Omega(\lambda x + ) 
+$$
