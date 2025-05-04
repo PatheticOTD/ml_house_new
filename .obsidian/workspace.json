@@ -58,12 +58,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DL/CNN.md",
+                "file": "Mathematics for machine learning/Linear Algebra/Groups.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CNN"
+              "title": "Groups"
             }
           }
         ],
@@ -258,8 +258,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6fa1abb60e86188d",
+  "active": "4b3db9c3faf34f91",
   "lastOpenFiles": [
+    "books/mml-book.pdf",
     "books/nlp_intro.pdf",
     "DL/CNN.md",
     "ML&DL.md",
@@ -274,7 +275,6 @@
     "DAC",
     "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
     "images/Pasted image 20250430112710.png",
-    "books/mml-book.pdf",
     "images/Pasted image 20250429160611.png",
     "Hyperlane.md",
     "Mathematics for machine learning/Linear Algebra/Groups.md",
