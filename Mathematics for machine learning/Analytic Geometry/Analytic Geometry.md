@@ -23,3 +23,6 @@ $$
 $$
 \Omega(x, \lambda y + \psi z) = \lambda\Omega(x, y) + \psi\Omega(x, z)
 $$
+Билинейное отображение может быть симметричным, если $\Omega(x, y) = \Omega(y, x)$ и положительно определенным, если $$
+\forall x\in V \frac{}{\{0\}:\Omega(x, x)> 0, \Omega(0, 0)}= 0
+$$
