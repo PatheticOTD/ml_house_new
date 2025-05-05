@@ -38,8 +38,7 @@
               "title": "Analytic Geometry"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "483e43684fd57588",
@@ -230,11 +229,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42d717bfb956689c",
+  "active": "751a2433d40f32f9",
   "lastOpenFiles": [
+    "books/mml-book.pdf",
     "Mathematics for machine learning/Analytic Geometry/Analytic Geometry.md",
     "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
-    "books/mml-book.pdf",
     "Mathematics for machine learning/Analytic Geometry/Manhattan Norm.md",
     "Mathematics for machine learning/Analytic Geometry/Euclidean Norm.md",
     "images/Pasted image 20250504122531.png",
