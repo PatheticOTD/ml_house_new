@@ -9,6 +9,7 @@ f_{N}= \frac{sr}{2}
 $$ где sr - sampling rate.
 
 Hann windowing
+Применяется чтобы избежать [[Spectral Leakage]].
 Процесс изымания окон звука из общей дорожки:
 ![[Pasted image 20250512122030.png]]
 где k - катый сэмл в окне

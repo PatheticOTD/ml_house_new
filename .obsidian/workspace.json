@@ -72,12 +72,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DL/DAC&ADC.md",
+                "file": "Spectral Leakage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DAC&ADC"
+              "title": "Spectral Leakage"
             }
           }
         ],
@@ -274,12 +274,13 @@
   },
   "active": "ee0bbdee9d2c4f54",
   "lastOpenFiles": [
+    "DL/DAC&ADC.md",
+    "Spectral Leakage.md",
     "Pasted image 20250512122357.png",
     "Pasted image 20250512122236.png",
     "Pasted image 20250512122030.png",
     "ML&DL.md",
     "DL/Sound waves.md",
-    "DL/DAC&ADC.md",
     "Mathematics for machine learning/Analytic Geometry/Analytic Geometry.md",
     "DL/Oblivious Decision Trees.md",
     "ML/Catboost algorithm.md",
@@ -309,7 +310,6 @@
     "images/Pasted image 20250422114350.png",
     "images/Pasted image 20250423084119.png",
     "Mathematics for machine learning/Linear Algebra/Multiplication.md",
-    "images/Pasted image 20250422101921.png",
     "Mathematics for machine learning/Linear Algebra/Inverse and transpose.md",
     "Mathematics for machine learning/Statistics",
     "Untitled.md",
