@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DL/Root Mean Square Energy.md",
+                "file": "DL/Zero Crossing Rate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Root Mean Square Energy"
+              "title": "Zero Crossing Rate"
             }
           }
         ],
@@ -232,12 +232,15 @@
   },
   "active": "7ab08b3850add7e4",
   "lastOpenFiles": [
+    "books/mml-book.pdf",
+    "DL/Zero Crossing Rate.md",
+    "Pasted image 20250514193952.png",
+    "images/Pasted image 20250514193846.png",
+    "DL/Time and frequency-domain audio features.md",
+    "DL/Root Mean Square Energy.md",
     "images/Pasted image 20250514193212.png",
     "images/Pasted image 20250514192753.png",
     "ML&DL.md",
-    "DL/Root Mean Square Energy.md",
-    "books/mml-book.pdf",
-    "DL/Time and frequency-domain audio features.md",
     "DL/Amplitude Envelope.md",
     "DL/Sound waves.md",
     "DL/DAC&ADC.md",
@@ -265,13 +268,10 @@
     "DL/cosine.md",
     "test.txt",
     "Mathematics for machine learning/Analytic Geometry",
-    "images/Pasted image 20250430151809.png",
     "DAC/ADC.md",
     "DAC",
-    "images/Pasted image 20250430112710.png",
     "Hyperlane.md",
     "Gro ups.md",
-    "Mathematics for machine learning/Linear Algebra/Multiplication.md",
     "Mathematics for machine learning/Statistics",
     "books",
     "books/байесовская статистика.pdf",
