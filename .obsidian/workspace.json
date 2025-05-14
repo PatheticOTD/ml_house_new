@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "483e43684fd57588",
@@ -246,22 +246,22 @@
   },
   "active": "42d717bfb956689c",
   "lastOpenFiles": [
+    "DL/Sound waves.md",
+    "ML&DL.md",
+    "books/mml-book.pdf",
     "DL/DAC&ADC.md",
     "Aliasing.md",
-    "DL/Sound waves.md",
     "Mathematics for machine learning/Analytic Geometry/Analytic Geometry.md",
     "DL/Oblivious Decision Trees.md",
     "Spectral Leakage.md",
     "Pasted image 20250512122357.png",
     "Pasted image 20250512122236.png",
     "Pasted image 20250512122030.png",
-    "ML&DL.md",
     "ML/Catboost algorithm.md",
     "ML/R squared metric.md",
     "ML/Recall and Precision.md",
     "ML/RocAuc.md",
     "ML/F1.md",
-    "books/mml-book.pdf",
     "Pasted image 20250506102550.png",
     "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
     "Mathematics for machine learning/Analytic Geometry/Manhattan Norm.md",
@@ -288,7 +288,6 @@
     "Untitled.md",
     "books",
     "Untitled 1.md",
-    "DL/LSTM.md",
     "books/байесовская статистика.pdf",
     "Mathematics for machine learning/Bayesian statistics",
     "Mathematics for machine learning/Linear Algebra"
