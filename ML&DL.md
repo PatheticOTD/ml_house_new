@@ -87,9 +87,10 @@
 
 Звук нуждается в предварительной обработке, перед тем, как мы его будем использовать.
 
-[[Sound waves]] - что та
-[[DAC&ADC]] 
-[[Time and frequency-domain audio features]]
+[[Sound waves]] - что такое волна
+[[DAC&ADC]]  - Преобразование аналога в дискретку
+[[Time and frequency-domain audio features]] - фичи, которые можно получить
+[[Fourier Transform]] - Босс этой качалки
 ### Остальное:
 #### Состав метрики:
 1) [[Функция потерь]]
