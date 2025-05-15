@@ -87,7 +87,7 @@
 
 Звук нуждается в предварительной обработке, перед тем, как мы его будем использовать.
 
-[[Sound waves]]
+[[Sound waves]] - что та
 [[DAC&ADC]] 
 [[Time and frequency-domain audio features]]
 ### Остальное:

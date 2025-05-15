@@ -38,8 +38,7 @@
               "title": "Zero Crossing Rate"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "483e43684fd57588",
@@ -230,10 +229,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42d717bfb956689c",
+  "active": "751a2433d40f32f9",
   "lastOpenFiles": [
-    "DL/Zero Crossing Rate.md",
     "books/mml-book.pdf",
+    "DL/Zero Crossing Rate.md",
     "Pasted image 20250514193952.png",
     "images/Pasted image 20250514193846.png",
     "DL/Time and frequency-domain audio features.md",
