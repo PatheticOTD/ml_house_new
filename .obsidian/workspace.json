@@ -52,8 +52,7 @@
               "title": "Fourier Transform"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "483e43684fd57588",
@@ -244,7 +243,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42d717bfb956689c",
+  "active": "751a2433d40f32f9",
   "lastOpenFiles": [
     "Fourier Transform.md",
     "Pasted image 20250515140712.png",
