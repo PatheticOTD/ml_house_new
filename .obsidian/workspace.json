@@ -67,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "483e43684fd57588",
@@ -259,11 +259,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42d717bfb956689c",
+  "active": "6244c98e22bde7a6",
   "lastOpenFiles": [
-    "Pasted image 20250520200252.png",
     "books/mml-book.pdf",
     "Mathematics for machine learning/Analytic Geometry/Analytic Geometry.md",
+    "Pasted image 20250520200252.png",
     "ML&DL.md",
     "Fourier Transform.md",
     "Pasted image 20250515140712.png",
@@ -284,7 +284,6 @@
     "DL/Spectral Leakage.md",
     "images/Pasted image 20250512122357.png",
     "images/Pasted image 20250512122236.png",
-    "images/Pasted image 20250512122030.png",
     "ML/Catboost algorithm.md",
     "ML/R squared metric.md",
     "ML/Recall and Precision.md",
