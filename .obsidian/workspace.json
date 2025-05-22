@@ -79,9 +79,23 @@
               "icon": "lucide-file",
               "title": "Catboost algorithm"
             }
+          },
+          {
+            "id": "abf42ab5a3c97cb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Recall and Precision.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Recall and Precision"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "9db218d6dd8cc186",
@@ -273,9 +287,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42d717bfb956689c",
+  "active": "abf42ab5a3c97cb6",
   "lastOpenFiles": [
+    "ML/F1.md",
     "ML&DL.md",
+    "ML/Catboost algorithm.md",
     "books/nlp_intro.pdf",
     "Fourier Transform.md",
     "books/mml-book.pdf",
@@ -299,11 +315,9 @@
     "DL/Spectral Leakage.md",
     "images/Pasted image 20250512122357.png",
     "images/Pasted image 20250512122236.png",
-    "ML/Catboost algorithm.md",
     "ML/R squared metric.md",
     "ML/Recall and Precision.md",
     "ML/RocAuc.md",
-    "ML/F1.md",
     "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
     "Mathematics for machine learning/Analytic Geometry/Manhattan Norm.md",
     "Mathematics for machine learning/Analytic Geometry/Euclidean Norm.md",
