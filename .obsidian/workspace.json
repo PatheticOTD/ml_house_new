@@ -93,9 +93,21 @@
               "icon": "lucide-file",
               "title": "F1"
             }
+          },
+          {
+            "id": "0b12dc02af2e792e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250514193952.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250514193952"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "9db218d6dd8cc186",
@@ -188,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c51ec527b41c23bf",
@@ -287,13 +298,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42d717bfb956689c",
+  "active": "0b12dc02af2e792e",
   "lastOpenFiles": [
+    "ML&DL.md",
     "ML/F1.md",
     "Mathematics for machine learning/Analytic Geometry/Analytic Geometry.md",
     "ML/Catboost algorithm.md",
     "ML/Recall and Precision.md",
-    "ML&DL.md",
     "books/nlp_intro.pdf",
     "Fourier Transform.md",
     "books/mml-book.pdf",
