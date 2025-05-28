@@ -132,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c51ec527b41c23bf",
@@ -230,7 +231,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "89c61de18ea34cd6",
+  "active": "42d717bfb956689c",
   "lastOpenFiles": [
     "ML&DL.md",
     "Mathematics for machine learning/Analytic Geometry/Analytic Geometry.md",
