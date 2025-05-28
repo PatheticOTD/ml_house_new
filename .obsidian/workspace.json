@@ -98,12 +98,14 @@
             "id": "0b12dc02af2e792e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20250514193952.png"
+                "file": "Mathematics for machine learning/Analytic Geometry/Analytic Geometry.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250514193952"
+              "icon": "lucide-file",
+              "title": "Analytic Geometry"
             }
           }
         ],
@@ -298,9 +300,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42d717bfb956689c",
+  "active": "0b12dc02af2e792e",
   "lastOpenFiles": [
     "ML&DL.md",
+    "images/Pasted image 20250514193952.png",
     "ML/F1.md",
     "Mathematics for machine learning/Analytic Geometry/Analytic Geometry.md",
     "ML/Catboost algorithm.md",
@@ -311,7 +314,6 @@
     "images/Pasted image 20250520200252.png",
     "images/Pasted image 20250515140712.png",
     "DL/Zero Crossing Rate.md",
-    "images/Pasted image 20250514193952.png",
     "images/Pasted image 20250514193846.png",
     "DL/Time and frequency-domain audio features.md",
     "DL/Root Mean Square Energy.md",
