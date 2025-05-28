@@ -38,8 +38,7 @@
               "title": "Вопросы с собесов"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9db218d6dd8cc186",
@@ -231,14 +230,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42d717bfb956689c",
+  "active": "751a2433d40f32f9",
   "lastOpenFiles": [
+    "Вопросы с собесов.md",
     "ML&DL.md",
     "Mathematics for machine learning/Analytic Geometry/Analytic Geometry.md",
     "ML/F1.md",
     "ML/Catboost algorithm.md",
     "DL/Zero Crossing Rate.md",
-    "Вопросы с собесов.md",
     "images/Pasted image 20250514193952.png",
     "ML/Recall and Precision.md",
     "books/nlp_intro.pdf",
