@@ -32,4 +32,5 @@ $$
 ![[Pasted image 20250520200252.png]]
 больше 0 для любого x из V\\{0}.
 
+#### Lengths and Distances
 
