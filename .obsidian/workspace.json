@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability theory.md",
+                "file": "Probability theory and statistics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Probability theory"
+              "title": "Probability theory and statistics"
             }
           },
           {
@@ -262,7 +262,7 @@
   "active": "821cfcd6072e1550",
   "lastOpenFiles": [
     "books/mml-book.pdf",
-    "Probability theory.md",
+    "Probability theory and statistics.md",
     "ML&DL.md",
     "Mathematics for machine learning/Analytic Geometry/Analytic Geometry.md",
     "Pasted image 20250528180511.png",
