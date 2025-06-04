@@ -1,6 +1,6 @@
 [[Linear Algebra]]
 [[Analytic Geometry]]
-
+[[Probability theory]]
 # Classic ML:
 #### Алгоритмы кластеризации:
 1) [[K-means]]
