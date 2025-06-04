@@ -6,7 +6,7 @@
       {
         "id": "3f91caf002897c2c",
         "type": "tabs",
-        "dimension": 47.705588368923216,
+        "dimension": 42.16417910447761,
         "children": [
           {
             "id": "751a2433d40f32f9",
@@ -72,7 +72,7 @@
       {
         "id": "9db218d6dd8cc186",
         "type": "tabs",
-        "dimension": 52.29441163107679,
+        "dimension": 57.83582089552238,
         "children": [
           {
             "id": "faf8123b5c83def8",
@@ -261,9 +261,9 @@
   },
   "active": "821cfcd6072e1550",
   "lastOpenFiles": [
+    "books/mml-book.pdf",
     "Probability theory.md",
     "ML&DL.md",
-    "books/mml-book.pdf",
     "Mathematics for machine learning/Analytic Geometry/Analytic Geometry.md",
     "Pasted image 20250528180511.png",
     "Вопросы с собесов.md",
@@ -300,7 +300,6 @@
     "DL/cosine.md",
     "test.txt",
     "Mathematics for machine learning/Analytic Geometry",
-    "DAC/ADC.md",
     "DAC",
     "Mathematics for machine learning/Statistics",
     "books",
