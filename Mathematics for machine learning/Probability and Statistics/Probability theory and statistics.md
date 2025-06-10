@@ -43,4 +43,4 @@ $$
 
 ##### Means and Covariances
 
-Ожидаемое значение функции $g:\mathbb{R}\ra$
+Ожидаемое значение функции $g:\mathbb{R}\rightarrow \mathbb{R}$ непрерывной одномерной случайной переменной X ~ p(x) выражается как:$$\mathbb{E}_{X}[g(x)] = \sum\limits_{x\in X}$$ 
