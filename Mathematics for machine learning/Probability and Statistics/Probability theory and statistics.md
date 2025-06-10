@@ -24,3 +24,8 @@ $$
 ![[Pasted image 20250610140642.png]]
 
 #### Sum Rule, Product Rule, and Bayes' Theorem
+
+В теорвере существуют только два фундаментальных правила:
+1. [[Sum Rule]]
+2. [[Product Rule]]
+Следует также всмо
