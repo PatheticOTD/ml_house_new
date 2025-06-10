@@ -231,9 +231,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6fa1abb60e86188d",
+  "active": "938cfc254d1e9560",
   "lastOpenFiles": [
+    "Mode.md",
     "Mathematics for machine learning/Probability and Statistics/Probability theory and statistics.md",
+    "Median.md",
     "books/mml-book.pdf",
     "Pasted image 20250610212142.png",
     "Pasted image 20250610211352.png",
@@ -270,7 +272,6 @@
     "DL/Aliasing.md",
     "DL/Oblivious Decision Trees.md",
     "DL/Spectral Leakage.md",
-    "ML/R squared metric.md",
     "test.txt",
     "Mathematics for machine learning/Analytic Geometry",
     "DAC",
