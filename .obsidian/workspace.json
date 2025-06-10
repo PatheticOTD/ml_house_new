@@ -6,7 +6,7 @@
       {
         "id": "3f91caf002897c2c",
         "type": "tabs",
-        "dimension": 39.02147971360382,
+        "dimension": 31.38424821002387,
         "children": [
           {
             "id": "751a2433d40f32f9",
@@ -58,7 +58,7 @@
       {
         "id": "9db218d6dd8cc186",
         "type": "tabs",
-        "dimension": 60.978520286396176,
+        "dimension": 68.61575178997613,
         "children": [
           {
             "id": "faf8123b5c83def8",
@@ -244,10 +244,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e193a26f42d042ae",
+  "active": "6fa1abb60e86188d",
   "lastOpenFiles": [
-    "books/mml-book.pdf",
     "Mathematics for machine learning/Probability and Statistics/Probability theory and statistics.md",
+    "books/mml-book.pdf",
     "ML&DL.md",
     "images/Pasted image 20250610140642.png",
     "Mathematics for machine learning/Probability and Statistics",
