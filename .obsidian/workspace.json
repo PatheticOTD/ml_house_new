@@ -6,7 +6,7 @@
       {
         "id": "3f91caf002897c2c",
         "type": "tabs",
-        "dimension": 35.02386634844869,
+        "dimension": 37.29216152019003,
         "children": [
           {
             "id": "751a2433d40f32f9",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "e193a26f42d042ae",
+            "id": "529d3e0088f620be",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -58,7 +58,7 @@
       {
         "id": "9db218d6dd8cc186",
         "type": "tabs",
-        "dimension": 64.97613365155132,
+        "dimension": 62.70783847980997,
         "children": [
           {
             "id": "faf8123b5c83def8",
@@ -146,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c51ec527b41c23bf",
@@ -244,20 +245,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e193a26f42d042ae",
+  "active": "6fa1abb60e86188d",
   "lastOpenFiles": [
-    "books/mml-book.pdf",
     "Product Rule.md",
-    "Mathematics for machine learning/Probability and Statistics/Probability theory and statistics.md",
-    "DL/Fourier Transform.md",
-    "Marginal Distributions.md",
-    "Mathematics for machine learning/Probability and Statistics/Sum Rule.md",
-    "images/Pasted image 20250610145247.png",
     "ML&DL.md",
+    "books/mml-book.pdf",
+    "images/Pasted image 20250610145247.png",
     "images/Pasted image 20250610140642.png",
-    "Mathematics for machine learning/Probability and Statistics",
-    "Mathematics for machine learning/Analytic Geometry/Analytic Geometry.md",
     "images/Pasted image 20250528180511.png",
+    "Mathematics for machine learning/Probability and Statistics/Sum Rule.md",
+    "Mathematics for machine learning/Probability and Statistics/Probability theory and statistics.md",
+    "Mathematics for machine learning/Probability and Statistics/Bootstrap.md",
+    "Mathematics for machine learning/Probability and Statistics",
+    "Marginal Distributions.md",
+    "DL/Fourier Transform.md",
+    "Probability theory and statistics.md",
+    "Mathematics for machine learning/Analytic Geometry/Analytic Geometry.md",
+    "Pasted image 20250528180511.png",
     "Вопросы с собесов.md",
     "ML/F1.md",
     "ML/Catboost algorithm.md",
@@ -275,15 +279,12 @@
     "DL/Amplitude Envelope.md",
     "DL/Sound waves.md",
     "DL/DAC&ADC.md",
-    "images/Pasted image 20250506102550.png",
     "DL/Aliasing.md",
     "DL/Oblivious Decision Trees.md",
     "DL/Spectral Leakage.md",
     "ML/R squared metric.md",
     "ML/RocAuc.md",
     "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
-    "Mathematics for machine learning/Analytic Geometry/Manhattan Norm.md",
-    "Mathematics for machine learning/Analytic Geometry/Euclidean Norm.md",
     "test.txt",
     "Mathematics for machine learning/Analytic Geometry",
     "DAC",
