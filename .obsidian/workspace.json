@@ -107,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bayes",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,12 +128,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c51ec527b41c23bf",
@@ -231,14 +231,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4eab07d6ef8a88a8",
+  "active": "938cfc254d1e9560",
   "lastOpenFiles": [
-    "Mathematics for machine learning/Bayesian statistics/Баесовская статистика.md",
+    "books/mml-book.pdf",
     "Mathematics for machine learning/Probability and Statistics/Probability theory and statistics.md",
+    "Mathematics for machine learning/Bayesian statistics/Баесовская статистика.md",
     "ML&DL.md",
     "Product Rule.md",
     "DL/Fourier Transform.md",
-    "books/mml-book.pdf",
     "images/Pasted image 20250610145247.png",
     "images/Pasted image 20250610140642.png",
     "images/Pasted image 20250528180511.png",
@@ -271,7 +271,6 @@
     "DL/Spectral Leakage.md",
     "ML/R squared metric.md",
     "ML/RocAuc.md",
-    "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
     "test.txt",
     "Mathematics for machine learning/Analytic Geometry",
     "DAC",
