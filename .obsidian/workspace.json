@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Correlation.md",
+                "file": "Mathematics for machine learning/Probability and Statistics/Probability theory and statistics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Correlation"
+              "title": "Probability theory and statistics"
             }
           }
         ],
@@ -232,13 +232,14 @@
   },
   "active": "a92e5963083dab4b",
   "lastOpenFiles": [
+    "books/mml-book.pdf",
     "Mathematics for machine learning/Probability and Statistics/Probability theory and statistics.md",
     "Correlation.md",
+    "ML&DL.md",
+    "Pasted image 20250611172240.png",
     "Pasted image 20250611171855.png",
     "Pasted image 20250611171817.png",
-    "books/mml-book.pdf",
     "Pasted image 20250611170615.png",
-    "ML&DL.md",
     "images/Pasted image 20250610212142.png",
     "DL/Fourier Transform.md",
     "conflict-files-obsidian-git.md",
@@ -259,7 +260,6 @@
     "ML/F1.md",
     "ML/Catboost algorithm.md",
     "DL/Zero Crossing Rate.md",
-    "images/Pasted image 20250514193952.png",
     "ML/Recall and Precision.md",
     "books/nlp_intro.pdf",
     "DL/Time and frequency-domain audio features.md",
@@ -270,7 +270,6 @@
     "DL/Aliasing.md",
     "DL/Oblivious Decision Trees.md",
     "DL/Spectral Leakage.md",
-    "ML/R squared metric.md",
     "test.txt",
     "Mathematics for machine learning/Analytic Geometry",
     "DAC",
