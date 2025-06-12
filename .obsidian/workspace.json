@@ -6,7 +6,7 @@
       {
         "id": "3f91caf002897c2c",
         "type": "tabs",
-        "dimension": 64.82300884955751,
+        "dimension": 46.607669616519175,
         "children": [
           {
             "id": "751a2433d40f32f9",
@@ -57,7 +57,7 @@
       {
         "id": "9db218d6dd8cc186",
         "type": "tabs",
-        "dimension": 35.176991150442475,
+        "dimension": 53.392330383480825,
         "children": [
           {
             "id": "faf8123b5c83def8",
@@ -243,12 +243,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "751a2433d40f32f9",
+  "active": "6fa1abb60e86188d",
   "lastOpenFiles": [
+    "ML&DL.md",
     "DL/Policy pi.md",
     "images/Pasted image 20250612193538.png",
     "DL/Rewards and the Discounting.md",
-    "ML&DL.md",
     "images/Pasted image 20250612193310.png",
     "images/Pasted image 20250612192640.png",
     "DL/Exploration Exploitation trade-off.md",
