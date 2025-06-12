@@ -37,6 +37,20 @@
               "icon": "lucide-file",
               "title": "Probability theory and statistics"
             }
+          },
+          {
+            "id": "94b12cc3ceb1ea66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linear Algebra"
+            }
           }
         ],
         "currentTab": 1
@@ -230,13 +244,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6fa1abb60e86188d",
+  "active": "a92e5963083dab4b",
   "lastOpenFiles": [
-    "Mathematics for machine learning/Probability and Statistics/Probability theory and statistics.md",
-    "books/mml-book.pdf",
     "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
-    "DL/Hyperplane.md",
+    "Mathematics for machine learning/Probability and Statistics/Probability theory and statistics.md",
     "ML&DL.md",
+    "Mathematics for machine learning/Analytic Geometry/Analytic Geometry.md",
+    "books/mml-book.pdf",
+    "DL/Hyperplane.md",
     "Pasted image 20250611175951.png",
     "Pasted image 20250611172920.png",
     "Mathematics for machine learning/Probability and Statistics/Correlation.md",
@@ -257,7 +272,6 @@
     "Mathematics for machine learning/Probability and Statistics/Sum Rule.md",
     "images/Pasted image 20250610145247.png",
     "Mathematics for machine learning/Probability and Statistics",
-    "Mathematics for machine learning/Analytic Geometry/Analytic Geometry.md",
     "Вопросы с собесов.md",
     "ML/F1.md",
     "ML/Catboost algorithm.md",
