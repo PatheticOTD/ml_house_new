@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "9db218d6dd8cc186",
@@ -244,11 +244,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a92e5963083dab4b",
+  "active": "94b12cc3ceb1ea66",
   "lastOpenFiles": [
-    "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
-    "Mathematics for machine learning/Probability and Statistics/Probability theory and statistics.md",
     "ML&DL.md",
+    "Mathematics for machine learning/Probability and Statistics/Probability theory and statistics.md",
+    "Pasted image 20250612080623.png",
+    "Pasted image 20250612080548.png",
+    "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
     "Mathematics for machine learning/Analytic Geometry/Analytic Geometry.md",
     "books/mml-book.pdf",
     "DL/Hyperplane.md",
@@ -263,14 +265,12 @@
     "DL/Fourier Transform.md",
     "conflict-files-obsidian-git.md",
     "images/Pasted image 20250610211352.png",
-    "images/Pasted image 20250610172323.png",
     "Mathematics for machine learning/Probability and Statistics/Mode.md",
     "Mathematics for machine learning/Probability and Statistics/Median.md",
     "Mathematics for machine learning/Probability and Statistics/Bayes Theorem.md",
     "Mathematics for machine learning/Probability and Statistics/Product Rule.md",
     "Mathematics for machine learning/Probability and Statistics/Marginal Distributions.md",
     "Mathematics for machine learning/Probability and Statistics/Sum Rule.md",
-    "images/Pasted image 20250610145247.png",
     "Mathematics for machine learning/Probability and Statistics",
     "Вопросы с собесов.md",
     "ML/F1.md",
