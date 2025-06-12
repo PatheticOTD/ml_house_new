@@ -6,7 +6,7 @@
       {
         "id": "3f91caf002897c2c",
         "type": "tabs",
-        "dimension": 39.140811455847256,
+        "dimension": 37.29216152019003,
         "children": [
           {
             "id": "751a2433d40f32f9",
@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "998f7484aa908a65",
+            "id": "ebfe97a5ff8d3197",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,7 +44,7 @@
       {
         "id": "9db218d6dd8cc186",
         "type": "tabs",
-        "dimension": 60.85918854415275,
+        "dimension": 62.70783847980997,
         "children": [
           {
             "id": "faf8123b5c83def8",
@@ -107,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Entro",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c51ec527b41c23bf",
@@ -230,46 +231,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "998f7484aa908a65",
+  "active": "ebfe97a5ff8d3197",
   "lastOpenFiles": [
-    "books/mml-book.pdf",
-    "Mathematics for machine learning/Probability and Statistics/Probability theory and statistics.md",
     "ML&DL.md",
-    "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
-    "images/Pasted image 20250611170615.png",
+    "Mathematics for machine learning/Probability and Statistics/Probability theory and statistics.md",
+    "books/mml-book.pdf",
     "images/Pasted image 20250612081053.png",
     "images/Pasted image 20250612080623.png",
     "images/Pasted image 20250612080548.png",
-    "Mathematics for machine learning/Analytic Geometry/Analytic Geometry.md",
-    "DL/Hyperplane.md",
     "images/Pasted image 20250611175951.png",
     "images/Pasted image 20250611172920.png",
-    "Mathematics for machine learning/Probability and Statistics/Correlation.md",
     "images/Pasted image 20250611172240.png",
     "images/Pasted image 20250611171855.png",
     "images/Pasted image 20250611171817.png",
+    "images/Pasted image 20250611170615.png",
     "images/Pasted image 20250610212142.png",
-    "DL/Fourier Transform.md",
-    "conflict-files-obsidian-git.md",
+    "Mathematics for machine learning/Probability and Statistics/Product Rule.md",
     "Mathematics for machine learning/Probability and Statistics/Mode.md",
     "Mathematics for machine learning/Probability and Statistics/Median.md",
-    "Mathematics for machine learning/Probability and Statistics/Bayes Theorem.md",
-    "Mathematics for machine learning/Probability and Statistics/Product Rule.md",
     "Mathematics for machine learning/Probability and Statistics/Marginal Distributions.md",
+    "Mathematics for machine learning/Probability and Statistics/Correlation.md",
+    "Mathematics for machine learning/Probability and Statistics/Bayes Theorem.md",
+    "DL/Hyperplane.md",
+    "Mode.md",
+    "Median.md",
+    "Bayes Theorem.md",
+    "Mathematics for machine learning/Bayesian statistics/Баесовская статистика.md",
+    "Product Rule.md",
+    "DL/Fourier Transform.md",
     "Mathematics for machine learning/Probability and Statistics/Sum Rule.md",
+    "Mathematics for machine learning/Probability and Statistics/Bootstrap.md",
     "Mathematics for machine learning/Probability and Statistics",
+    "Marginal Distributions.md",
+    "Probability theory and statistics.md",
+    "Mathematics for machine learning/Analytic Geometry/Analytic Geometry.md",
     "Вопросы с собесов.md",
     "ML/F1.md",
     "ML/Catboost algorithm.md",
     "DL/Zero Crossing Rate.md",
     "ML/Recall and Precision.md",
     "books/nlp_intro.pdf",
-    "DL/Time and frequency-domain audio features.md",
-    "DL/Root Mean Square Energy.md",
-    "DL/Amplitude Envelope.md",
-    "DL/Sound waves.md",
-    "DL/DAC&ADC.md",
-    "DL/Aliasing.md",
     "test.txt",
     "Mathematics for machine learning/Analytic Geometry",
     "DAC",
