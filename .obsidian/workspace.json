@@ -52,8 +52,7 @@
               "title": "Rewards and the Discounting"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9db218d6dd8cc186",
@@ -244,12 +243,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21eacea14aec9418",
+  "active": "751a2433d40f32f9",
   "lastOpenFiles": [
+    "DL/Policy pi.md",
     "images/Pasted image 20250612193538.png",
     "DL/Rewards and the Discounting.md",
     "ML&DL.md",
-    "DL/Policy pi.md",
     "images/Pasted image 20250612193310.png",
     "images/Pasted image 20250612192640.png",
     "DL/Exploration Exploitation trade-off.md",
