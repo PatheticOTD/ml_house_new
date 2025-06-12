@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Policy pi.md",
+                "file": "DL/Policy pi.md",
                 "mode": "source",
                 "source": false
               },
@@ -246,12 +246,14 @@
   },
   "active": "21eacea14aec9418",
   "lastOpenFiles": [
+    "images/Pasted image 20250612193538.png",
     "DL/Rewards and the Discounting.md",
     "ML&DL.md",
-    "Policy pi.md",
-    "Pasted image 20250612192640.png",
+    "DL/Policy pi.md",
+    "images/Pasted image 20250612193310.png",
+    "images/Pasted image 20250612192640.png",
     "DL/Exploration Exploitation trade-off.md",
-    "Pasted image 20250612181811.png",
+    "images/Pasted image 20250612181811.png",
     "DL/Continuing.md",
     "images/Pasted image 20250612173453.png",
     "Exploration/Exploitation trade-off 4.md",
@@ -270,10 +272,8 @@
     "images/Pasted image 20250611170615.png",
     "images/Pasted image 20250612081053.png",
     "images/Pasted image 20250612080623.png",
-    "images/Pasted image 20250612080548.png",
     "Mathematics for machine learning/Analytic Geometry/Analytic Geometry.md",
     "DL/Hyperplane.md",
-    "images/Pasted image 20250611175951.png",
     "Mathematics for machine learning/Probability and Statistics/Correlation.md",
     "DL/Fourier Transform.md",
     "conflict-files-obsidian-git.md",
