@@ -230,14 +230,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42d717bfb956689c",
+  "active": "6fa1abb60e86188d",
   "lastOpenFiles": [
     "Mathematics for machine learning/Probability and Statistics/Probability theory and statistics.md",
+    "books/mml-book.pdf",
     "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
     "DL/Hyperplane.md",
     "ML&DL.md",
     "Pasted image 20250611175951.png",
-    "books/mml-book.pdf",
     "Pasted image 20250611172920.png",
     "Mathematics for machine learning/Probability and Statistics/Correlation.md",
     "Pasted image 20250611172240.png",
@@ -270,7 +270,6 @@
     "DL/Sound waves.md",
     "DL/DAC&ADC.md",
     "DL/Aliasing.md",
-    "DL/Oblivious Decision Trees.md",
     "test.txt",
     "Mathematics for machine learning/Analytic Geometry",
     "DAC",
