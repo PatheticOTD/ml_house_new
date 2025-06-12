@@ -38,8 +38,7 @@
               "title": "Exploration Exploitation trade-off"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9db218d6dd8cc186",
@@ -230,12 +229,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57e9fdae83159f8a",
+  "active": "751a2433d40f32f9",
   "lastOpenFiles": [
+    "DL/Exploration Exploitation trade-off.md",
+    "Pasted image 20250612181811.png",
     "ML&DL.md",
     "DL/Continuing.md",
     "images/Pasted image 20250612173453.png",
-    "DL/Exploration Exploitation trade-off.md",
     "Exploration/Exploitation trade-off 4.md",
     "Exploration/Exploitation trade-off.md",
     "Exploration/Exploitation trade-off 3.md",
@@ -259,7 +259,6 @@
     "images/Pasted image 20250611175951.png",
     "images/Pasted image 20250611172920.png",
     "Mathematics for machine learning/Probability and Statistics/Correlation.md",
-    "images/Pasted image 20250611172240.png",
     "DL/Fourier Transform.md",
     "conflict-files-obsidian-git.md",
     "Mathematics for machine learning/Probability and Statistics/Mode.md",
