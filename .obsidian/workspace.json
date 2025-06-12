@@ -231,10 +231,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ebfe97a5ff8d3197",
+  "active": "6fa1abb60e86188d",
   "lastOpenFiles": [
-    "books/mml-book.pdf",
     "Mathematics for machine learning/Probability and Statistics/Probability theory and statistics.md",
+    "statistical manifold.md",
+    "books/mml-book.pdf",
     "Pasted image 20250612135409.png",
     "ML&DL.md",
     "images/Pasted image 20250612081053.png",
