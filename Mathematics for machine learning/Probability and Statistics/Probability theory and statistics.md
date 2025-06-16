@@ -109,3 +109,5 @@ $$
 
 Мультивариативное гаусовское распределение с матрицей ковариации $\Sigma$ определено как: 
 ![[Pasted image 20250616133024.png]]
+
+##### Marginals and Conditionals of Gaussians are Gaussians
