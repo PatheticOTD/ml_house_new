@@ -111,3 +111,5 @@ $$
 ![[Pasted image 20250616133024.png]]
 
 ##### Marginals and Conditionals of Gaussians are Gaussians
+Маргинальные распределения Гауссовского 
+![[Pasted image 20250616142312.png]]
