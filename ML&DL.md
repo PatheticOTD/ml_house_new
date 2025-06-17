@@ -87,6 +87,11 @@
 
 ![[action_space.jpg]]
 ![[obs_space_recap.jpg]]
+![[tasks.png]]
+![[pbm_1.jpg]]
+![[pbm_2.jpg]]
+![[vbm_1.jpg]]
+![[vbm_2.jpg]]
 
 
 
