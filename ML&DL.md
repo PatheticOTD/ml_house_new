@@ -85,6 +85,11 @@
 2) [[Intrinsic evaluation]]
 ### RL
 
+![[action_space.jpg]]
+![[obs_space_recap.jpg]]
+
+
+
 ### Audio Signal Processing
 
 Звук нуждается в предварительной обработке, перед тем, как мы его будем использовать.

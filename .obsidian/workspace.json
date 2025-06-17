@@ -6,7 +6,7 @@
       {
         "id": "3f91caf002897c2c",
         "type": "tabs",
-        "dimension": 37.29216152019003,
+        "dimension": 67.75534441805226,
         "children": [
           {
             "id": "751a2433d40f32f9",
@@ -38,13 +38,12 @@
               "title": "Beta Distribution"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9db218d6dd8cc186",
         "type": "tabs",
-        "dimension": 62.70783847980997,
+        "dimension": 32.24465558194775,
         "children": [
           {
             "id": "faf8123b5c83def8",
@@ -231,13 +230,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09b51706c8b80d03",
+  "active": "751a2433d40f32f9",
   "lastOpenFiles": [
+    "obs_space_recap.jpg",
+    "action_space.jpg",
+    "Beta Distribution.md",
     "Pasted image 20250617134607.png",
     "Pasted image 20250617134330.png",
     "Pasted image 20250617134201.png",
     "Mathematics for machine learning/Probability and Statistics/Probability theory and statistics.md",
-    "Beta Distribution.md",
     "Binomial Distribution.md",
     "Pasted image 20250617133237.png",
     "ML&DL.md",
@@ -248,8 +249,6 @@
     "Pasted image 20250616143013.png",
     "Pasted image 20250616142912.png",
     "Pasted image 20250616142742.png",
-    "Pasted image 20250616142312.png",
-    "Pasted image 20250616133024.png",
     "statistical manifold.md",
     "Mathematics for machine learning/Probability and Statistics/Product Rule.md",
     "Mathematics for machine learning/Probability and Statistics/Mode.md",
