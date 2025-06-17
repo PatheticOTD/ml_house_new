@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Binomial Distribution.md",
+                "file": "Beta Distribution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binomial Distribution"
+              "title": "Beta Distribution"
             }
           }
         ],
@@ -233,9 +233,10 @@
   },
   "active": "09b51706c8b80d03",
   "lastOpenFiles": [
-    "Pasted image 20250617133237.png",
     "Mathematics for machine learning/Probability and Statistics/Probability theory and statistics.md",
+    "Beta Distribution.md",
     "Binomial Distribution.md",
+    "Pasted image 20250617133237.png",
     "ML&DL.md",
     "Bernoulli Distribution.md",
     "Pasted image 20250617132958.png",
@@ -249,7 +250,6 @@
     "statistical manifold.md",
     "Pasted image 20250612135409.png",
     "images/Pasted image 20250612081053.png",
-    "images/Pasted image 20250612080623.png",
     "Mathematics for machine learning/Probability and Statistics/Product Rule.md",
     "Mathematics for machine learning/Probability and Statistics/Mode.md",
     "Mathematics for machine learning/Probability and Statistics/Median.md",
