@@ -1,0 +1,3 @@
+Геренализация [[Bernoulli Distribution]]:
+![[Pasted image 20250617133237.png]]
+где N - колличество наблюдений.

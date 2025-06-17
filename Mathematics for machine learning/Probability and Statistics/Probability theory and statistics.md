@@ -134,4 +134,5 @@ $$
 #### Conjugacy and the Exponential Family
 Для начала рассмотрим еще 4 простецких распределения:
 1. [[Bernoulli Distribution]]
-2. 
+2. [[Binomial Distribution]]
+3. 
