@@ -130,3 +130,5 @@ $$
 
 ##### Sums and Linear Transformations
 Сумма нормальных случайных переменных тоже Гауссовская. Таким образом линейная трансформация тоже будет гауссовской.
+
+#### Conjugacy and the Exponential Family
