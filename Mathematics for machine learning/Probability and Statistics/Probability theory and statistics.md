@@ -125,4 +125,7 @@ $$
 Маргинальное распределение можно получить применением:
 ![[Pasted image 20250616143429.png]]
 
-##### Product of Gaussian Dinsities
+##### Product of Gaussian Densities
+Умножение N на N тоже дает нормальное распределение.
+
+Су
