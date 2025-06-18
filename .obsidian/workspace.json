@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for machine learning/Probability and Statistics/Beta Distribution.md",
+                "file": "Mathematics for machine learning/Probability and Statistics/Probability theory and statistics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Beta Distribution"
+              "title": "Probability theory and statistics"
             }
           }
         ],
@@ -232,8 +232,9 @@
   },
   "active": "d29f2ff4419231b2",
   "lastOpenFiles": [
-    "Mathematics for machine learning/Probability and Statistics/Probability theory and statistics.md",
+    "Mathematics for machine learning/Probability and Statistics/Beta Distribution.md",
     "ML&DL.md",
+    "Mathematics for machine learning/Probability and Statistics/Probability theory and statistics.md",
     "conflict-files-obsidian-git.md",
     "images/tasks.png",
     "images/obs_space_recap.jpg",
@@ -249,7 +250,6 @@
     "images/Pasted image 20250617134330.png",
     "images/Pasted image 20250617134201.png",
     "Mathematics for machine learning/Probability and Statistics/Binomial Distribution.md",
-    "Mathematics for machine learning/Probability and Statistics/Beta Distribution.md",
     "Mathematics for machine learning/Probability and Statistics/statistical manifold.md",
     "Mathematics for machine learning/Probability and Statistics/Product Rule.md",
     "DL/Rewards and the Discounting.md",

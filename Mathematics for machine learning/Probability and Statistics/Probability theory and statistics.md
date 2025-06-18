@@ -136,3 +136,5 @@ $$
 1. [[Bernoulli Distribution]]
 2. [[Binomial Distribution]]
 3. [[Beta Distribution]]
+
+##### Conjugacy
