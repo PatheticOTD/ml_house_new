@@ -6,7 +6,7 @@
       {
         "id": "3f91caf002897c2c",
         "type": "tabs",
-        "dimension": 67.75534441805226,
+        "dimension": 46.60766961651918,
         "children": [
           {
             "id": "751a2433d40f32f9",
@@ -25,12 +25,12 @@
             }
           },
           {
-            "id": "09b51706c8b80d03",
+            "id": "d29f2ff4419231b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beta Distribution.md",
+                "file": "Mathematics for machine learning/Probability and Statistics/Beta Distribution.md",
                 "mode": "source",
                 "source": false
               },
@@ -38,12 +38,13 @@
               "title": "Beta Distribution"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9db218d6dd8cc186",
         "type": "tabs",
-        "dimension": 32.24465558194775,
+        "dimension": 53.39233038348082,
         "children": [
           {
             "id": "faf8123b5c83def8",
@@ -106,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Entro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,8 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c51ec527b41c23bf",
@@ -230,53 +230,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "751a2433d40f32f9",
+  "active": "d29f2ff4419231b2",
   "lastOpenFiles": [
-    "vbm_2.jpg",
-    "vbm_1.jpg",
-    "pbm_2.jpg",
-    "pbm_1.jpg",
-    "tasks.png",
-    "obs_space_recap.jpg",
-    "action_space.jpg",
-    "Beta Distribution.md",
-    "Pasted image 20250617134607.png",
-    "Pasted image 20250617134330.png",
-    "Pasted image 20250617134201.png",
     "Mathematics for machine learning/Probability and Statistics/Probability theory and statistics.md",
-    "Binomial Distribution.md",
-    "Pasted image 20250617133237.png",
     "ML&DL.md",
-    "Bernoulli Distribution.md",
+    "conflict-files-obsidian-git.md",
+    "images/tasks.png",
+    "images/obs_space_recap.jpg",
+    "Mathematics for machine learning/Probability and Statistics/Bernoulli Distribution.md",
     "books/mml-book.pdf",
-    "statistical manifold.md",
+    "images/vbm_2.jpg",
+    "images/vbm_1.jpg",
+    "Mathematics for machine learning/Probability and Statistics/statistical manifold.md",
+    "images/pbm_2.jpg",
+    "images/pbm_1.jpg",
+    "images/action_space.jpg",
+    "images/Pasted image 20250617134607.png",
+    "images/Pasted image 20250617134330.png",
+    "images/Pasted image 20250617134201.png",
+    "Mathematics for machine learning/Probability and Statistics/Binomial Distribution.md",
+    "Mathematics for machine learning/Probability and Statistics/Beta Distribution.md",
+    "Mathematics for machine learning/Probability and Statistics/statistical manifold.md",
     "Mathematics for machine learning/Probability and Statistics/Product Rule.md",
-    "Mathematics for machine learning/Probability and Statistics/Mode.md",
-    "Mathematics for machine learning/Probability and Statistics/Median.md",
-    "Mathematics for machine learning/Probability and Statistics/Marginal Distributions.md",
-    "Mathematics for machine learning/Probability and Statistics/Correlation.md",
-    "Mathematics for machine learning/Probability and Statistics/Bayes Theorem.md",
-    "DL/Hyperplane.md",
-    "Mode.md",
-    "Median.md",
-    "Bayes Theorem.md",
-    "Mathematics for machine learning/Bayesian statistics/Баесовская статистика.md",
-    "Product Rule.md",
-    "DL/Fourier Transform.md",
+    "DL/Rewards and the Discounting.md",
     "Mathematics for machine learning/Probability and Statistics/Sum Rule.md",
-    "Mathematics for machine learning/Probability and Statistics/Bootstrap.md",
-    "Mathematics for machine learning/Probability and Statistics",
-    "Marginal Distributions.md",
-    "Probability theory and statistics.md",
+    "DL/Policy pi.md",
+    "DL/Exploration Exploitation trade-off.md",
+    "DL/Continuing.md",
+    "Exploration/Exploitation trade-off 4.md",
+    "Exploration/Exploitation trade-off.md",
+    "Exploration/Exploitation trade-off 3.md",
+    "Exploration/Exploitation trade-off 2.md",
+    "Exploration/Exploitation trade-off 1.md",
+    "Exploration",
+    "DL/Episodic.md",
+    "DL/Markov Decision Proces.md",
+    "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
     "Mathematics for machine learning/Analytic Geometry/Analytic Geometry.md",
-    "Вопросы с собесов.md",
+    "DL/Hyperplane.md",
+    "Mathematics for machine learning/Probability and Statistics/Correlation.md",
+    "Mathematics for machine learning/Probability and Statistics",
     "books/nlp_intro.pdf",
     "test.txt",
     "Mathematics for machine learning/Analytic Geometry",
     "DAC",
     "Mathematics for machine learning/Statistics",
     "books",
-    "books/байесовская статистика.pdf",
-    "Mathematics for machine learning/Bayesian statistics"
+    "books/байесовская статистика.pdf"
   ]
 }
