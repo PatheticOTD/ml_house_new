@@ -94,9 +94,10 @@
 ![[pbm_2.jpg]]
 ![[vbm_1.jpg]]
 ![[vbm_2.jpg]]
-
+##### The two types of value-based methods
+Напомню, что это те методы которые оптимизируют саму функцию
 ![[Pasted image 20250620181118.png]]
-
+[[Bellman Equation]] помогает нам оптимизировать процесс нахождения
 
 ### Audio Signal Processing
 
