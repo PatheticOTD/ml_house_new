@@ -105,7 +105,7 @@
 ##### Monte Carlo vs Temporal Difference Learning
 Это два подхода к обучению моделей. 
 [[Monte Carlo learning]] использует весь эпизод для обучения.
-[[Temporal Difference]] использует только шаг ($S_{t},A_{t},R_{t+1}, S_{t+1}$)
+[[Temporal Difference]] использует только шаг ($S_{t},A_{t},R_{t+1}, S_{t+1}$) для обучения.
 ### Audio Signal Processing
 
 Звук нуждается в предварительной обработке, перед тем, как мы его будем использовать.
