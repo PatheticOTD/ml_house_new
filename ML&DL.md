@@ -94,6 +94,7 @@
 ![[pbm_2.jpg]]
 ![[vbm_1.jpg]]
 ![[vbm_2.jpg]]
+![[Pasted image 20250623174821.png]]
 ##### The two types of value-based methods
 Напомню, что это те методы которые оптимизируют саму функцию.
 ![[Pasted image 20250620182033.png]]
