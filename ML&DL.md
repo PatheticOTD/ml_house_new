@@ -102,6 +102,8 @@
 Первая, это State-Value function. Она просчитывает ожидаемые значения для каждого состояния.
 Вторая же, Action-value function, на каждом состоянии она подсчитывает значения, и затем выбирает действие
 [[Bellman Equation]] помогает нам оптимизировать процесс нахождения
+##### Monte Carlo vs Temporal Difference Learning
+
 
 ### Audio Signal Processing
 
