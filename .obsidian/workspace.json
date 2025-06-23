@@ -52,8 +52,7 @@
               "title": "Probability theory and statistics"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "9db218d6dd8cc186",
@@ -244,10 +243,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28094892fa027595",
+  "active": "751a2433d40f32f9",
   "lastOpenFiles": [
-    "Mathematics for machine learning/Probability and Statistics/Product Rule.md",
     "Mathematics for machine learning/Probability and Statistics/Probability theory and statistics.md",
+    "Mathematics for machine learning/Probability and Statistics/Product Rule.md",
     "ML&DL.md",
     "Pasted image 20250623174821.png",
     "DL/Bellman Equation.md",
