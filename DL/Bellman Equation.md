@@ -10,3 +10,4 @@
 Если разбить это на действия, то:
 ![[Pasted image 20250623184924.png]]
 В этой формуле можно распознать [[Probability theory and statistics#Law Of Total Probability]]
+Далее стоит понимать, что функция $G_t$ является рекурсивной, то есть $$G_{t}= R_{t+1} + \varepsilon$$
