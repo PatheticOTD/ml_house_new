@@ -38,7 +38,8 @@
               "title": "Bellman Equation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9db218d6dd8cc186",
@@ -229,8 +230,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "751a2433d40f32f9",
+  "active": "7da2fd821509a28a",
   "lastOpenFiles": [
+    "ML&DL.md",
     "Pasted image 20250623225828.png",
     "DL/Bellman Equation.md",
     "Pasted image 20250623224649.png",
@@ -242,13 +244,11 @@
     "images/Pasted image 20250623184740.png",
     "images/Pasted image 20250623184355.png",
     "images/Pasted image 20250623184014.png",
-    "ML&DL.md",
     "Mathematics for machine learning/Probability and Statistics/Product Rule.md",
     "Mathematics for machine learning/Linear Algebra/Groups.md",
     "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
     "books/mml-book.pdf",
     "images/Pasted image 20250620181005.png",
-    "images/Pasted image 20250620182033.png",
     "Mathematics for machine learning/Probability and Statistics/Marginal Distributions.md",
     "Mathematics for machine learning/Probability and Statistics/Bayes Theorem.md",
     "Mathematics for machine learning/Probability and Statistics/Beta Distribution.md",
