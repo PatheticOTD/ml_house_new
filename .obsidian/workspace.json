@@ -37,37 +37,9 @@
               "icon": "lucide-file",
               "title": "Bellman Equation"
             }
-          },
-          {
-            "id": "28094892fa027595",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics for machine learning/Probability and Statistics/Probability theory and statistics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Probability theory and statistics"
-            }
-          },
-          {
-            "id": "4c5c8aed2bcba1d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DL/Bellman Equation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bellman Equation"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "9db218d6dd8cc186",
@@ -258,15 +230,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c5c8aed2bcba1d2",
+  "active": "7da2fd821509a28a",
   "lastOpenFiles": [
-    "Pasted image 20250623184355.png",
-    "Pasted image 20250623184014.png",
-    "ML&DL.md",
-    "Mathematics for machine learning/Probability and Statistics/Probability theory and statistics.md",
-    "Mathematics for machine learning/Probability and Statistics/Product Rule.md",
-    "Pasted image 20250623174821.png",
+    "images/Pasted image 20250623174821.png",
     "DL/Bellman Equation.md",
+    "Mathematics for machine learning/Probability and Statistics/Probability theory and statistics.md",
+    "images/Pasted image 20250623184924.png",
+    "images/Pasted image 20250623184740.png",
+    "images/Pasted image 20250623184355.png",
+    "images/Pasted image 20250623184014.png",
+    "ML&DL.md",
+    "Mathematics for machine learning/Probability and Statistics/Product Rule.md",
     "Mathematics for machine learning/Linear Algebra/Groups.md",
     "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
     "books/mml-book.pdf",
@@ -280,10 +254,7 @@
     "images/tasks.png",
     "images/obs_space_recap.jpg",
     "Mathematics for machine learning/Probability and Statistics/Bernoulli Distribution.md",
-    "images/vbm_2.jpg",
-    "images/vbm_1.jpg",
     "Mathematics for machine learning/Probability and Statistics/statistical manifold.md",
-    "images/pbm_2.jpg",
     "Mathematics for machine learning/Probability and Statistics/Binomial Distribution.md",
     "Mathematics for machine learning/Probability and Statistics/statistical manifold.md",
     "DL/Rewards and the Discounting.md",
