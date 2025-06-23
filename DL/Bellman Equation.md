@@ -21,3 +21,4 @@
 state value функции могут давать нам самую оптимальную политику, state action дают оптимальные пары state - action.
 
 ![[Pasted image 20250623224649.png]]
+
