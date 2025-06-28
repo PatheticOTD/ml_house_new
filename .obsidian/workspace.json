@@ -6,7 +6,7 @@
       {
         "id": "3f91caf002897c2c",
         "type": "tabs",
-        "dimension": 57.227138643067846,
+        "dimension": 32.756563245823386,
         "children": [
           {
             "id": "751a2433d40f32f9",
@@ -25,39 +25,26 @@
             }
           },
           {
-            "id": "7da2fd821509a28a",
+            "id": "606ebb82c69a3692",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DL/Bellman Equation.md",
+                "file": "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bellman Equation"
-            }
-          },
-          {
-            "id": "956e9dbe515270a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DL/Bellman Equation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bellman Equation"
+              "title": "Linear Algebra"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9db218d6dd8cc186",
         "type": "tabs",
-        "dimension": 42.772861356932154,
+        "dimension": 67.24343675417661,
         "children": [
           {
             "id": "faf8123b5c83def8",
@@ -243,12 +230,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42d717bfb956689c",
+  "active": "606ebb82c69a3692",
   "lastOpenFiles": [
     "ML&DL.md",
+    "books/mml-book.pdf",
     "DL/Bellman Equation.md",
     "Pasted image 20250625163108.png",
-    "books/mml-book.pdf",
     "Pasted image 20250623225828.png",
     "Pasted image 20250623224649.png",
     "Pasted image 20250623190447.png",
