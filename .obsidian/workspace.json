@@ -52,8 +52,7 @@
               "title": "Probability theory and statistics"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "9db218d6dd8cc186",
@@ -244,8 +243,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb0433f36409a6d2",
+  "active": "751a2433d40f32f9",
   "lastOpenFiles": [
+    "Mathematics for machine learning/Probability and Statistics/Probability theory and statistics.md",
     "ML&DL.md",
     "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
     "books/mml-book.pdf",
@@ -256,7 +256,6 @@
     "Pasted image 20250623190447.png",
     "Pasted image 20250623190252.png",
     "images/Pasted image 20250623174821.png",
-    "Mathematics for machine learning/Probability and Statistics/Probability theory and statistics.md",
     "images/Pasted image 20250623184924.png",
     "images/Pasted image 20250623184740.png",
     "images/Pasted image 20250623184355.png",
