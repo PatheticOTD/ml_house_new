@@ -244,8 +244,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a04fc159e692df4",
+  "active": "42d717bfb956689c",
   "lastOpenFiles": [
+    "DL/Batch Normalization.md",
     "ML&DL.md",
     "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
     "Mathematics for machine learning/Probability and Statistics/Probability theory and statistics.md",
@@ -282,7 +283,6 @@
     "Exploration/Exploitation trade-off.md",
     "Exploration/Exploitation trade-off 3.md",
     "Exploration/Exploitation trade-off 2.md",
-    "Exploration/Exploitation trade-off 1.md",
     "Exploration",
     "Mathematics for machine learning/Probability and Statistics",
     "books/nlp_intro.pdf",
