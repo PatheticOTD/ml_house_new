@@ -52,8 +52,7 @@
               "title": "Batch Normalization"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "9db218d6dd8cc186",
@@ -244,8 +243,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42d717bfb956689c",
+  "active": "751a2433d40f32f9",
   "lastOpenFiles": [
+    "books/mml-book.pdf",
     "DL/Batch Normalization.md",
     "ML&DL.md",
     "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
@@ -253,7 +253,6 @@
     "DL/Bellman Equation.md",
     "DL/Transformers.md",
     "DL/Layer Norm.md",
-    "books/mml-book.pdf",
     "Pasted image 20250625163108.png",
     "Pasted image 20250623225828.png",
     "Pasted image 20250623224649.png",
@@ -282,7 +281,6 @@
     "Exploration/Exploitation trade-off 4.md",
     "Exploration/Exploitation trade-off.md",
     "Exploration/Exploitation trade-off 3.md",
-    "Exploration/Exploitation trade-off 2.md",
     "Exploration",
     "Mathematics for machine learning/Probability and Statistics",
     "books/nlp_intro.pdf",
