@@ -258,10 +258,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "858447a3e2705c69",
+  "active": "42d717bfb956689c",
   "lastOpenFiles": [
-    "DL/Self-Attention.md",
     "DL/Transformers.md",
+    "DL/Self-Attention.md",
     "ML&DL.md",
     "books/mml-book.pdf",
     "DL/Batch Normalization.md",
