@@ -107,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Entro",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -230,7 +230,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb407630cc6e20b0",
+  "active": "a8497c31de7976f2",
   "lastOpenFiles": [
     "Transition probability distribution.md",
     "Pasted image 20250806165215.png",
