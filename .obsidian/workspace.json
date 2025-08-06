@@ -72,12 +72,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trust Region Policy Optimizaiton.md",
+                "file": "Transition probability distribution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trust Region Policy Optimizaiton"
+              "title": "Transition probability distribution"
             }
           }
         ],
@@ -274,7 +274,9 @@
   },
   "active": "cb407630cc6e20b0",
   "lastOpenFiles": [
+    "Pasted image 20250806165215.png",
     "Trust Region Policy Optimizaiton.md",
+    "Transition probability distribution.md",
     "ML&DL.md",
     "books/mml-book.pdf",
     "Mathematics for machine learning/Probability and Statistics/Probability theory and statistics.md",
@@ -309,8 +311,6 @@
     "DL/Policy pi.md",
     "DL/Exploration Exploitation trade-off.md",
     "DL/Continuing.md",
-    "Exploration/Exploitation trade-off 4.md",
-    "Exploration/Exploitation trade-off.md",
     "Exploration",
     "Mathematics for machine learning/Probability and Statistics",
     "books/nlp_intro.pdf",
