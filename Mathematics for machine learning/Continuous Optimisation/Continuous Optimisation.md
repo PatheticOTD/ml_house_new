@@ -3,3 +3,4 @@
 Есть [[Unconstrained optimization]] и [[Constrained optimization]].
 
 Предполагается, что все оптимизируемые функции дифференцируемы.
+
