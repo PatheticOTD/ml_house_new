@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for machine learning/Continuous Optimisation/Continuous Optimisation.md",
+                "file": "Lagrange multipliers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Continuous Optimisation"
+              "title": "Lagrange multipliers"
             }
           }
         ],
@@ -231,16 +231,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6fa1abb60e86188d",
+  "active": "6cf6532226063f07",
   "lastOpenFiles": [
     "Mathematics for machine learning/Continuous Optimisation/Continuous Optimisation.md",
+    "books/mml-book.pdf",
     "Constrained optimization.md",
     "ML&DL.md",
     "Mathematics for machine learning/Probability and Statistics/Product Rule.md",
     "Unconstrained optimization.md",
     "Mathematics for machine learning/Probability and Statistics/Probability theory and statistics.md",
     "MiniMax Inequality.md",
-    "books/mml-book.pdf",
     "Pasted image 20250807204212.png",
     "Pasted image 20250807204134.png",
     "Lagrange multipliers.md",
@@ -270,7 +270,6 @@
     "Mathematics for machine learning/Probability and Statistics/statistical manifold.md",
     "Mathematics for machine learning/Probability and Statistics/Binomial Distribution.md",
     "Mathematics for machine learning/Probability and Statistics/statistical manifold.md",
-    "DL/Rewards and the Discounting.md",
     "Exploration",
     "Mathematics for machine learning/Probability and Statistics",
     "books/nlp_intro.pdf",
