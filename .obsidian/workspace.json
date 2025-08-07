@@ -44,12 +44,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for machine learning/Continuous Optimisation/Continuous Optimisation.md",
+                "file": "Constrained optimization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Continuous Optimisation"
+              "title": "Constrained optimization"
             }
           }
         ],
@@ -246,9 +246,10 @@
   },
   "active": "e9a7f19716a46604",
   "lastOpenFiles": [
+    "Mathematics for machine learning/Continuous Optimisation/Continuous Optimisation.md",
+    "Constrained optimization.md",
     "Pasted image 20250807151925.png",
     "books/mml-book.pdf",
-    "Mathematics for machine learning/Continuous Optimisation/Continuous Optimisation.md",
     "Mathematics for machine learning/Continuous Optimisation",
     "ML&DL.md",
     "Mathematics for machine learning/Trust Region Policy Optimizaiton.md",
@@ -270,7 +271,6 @@
     "images/Pasted image 20250623174821.png",
     "images/Pasted image 20250623184924.png",
     "images/Pasted image 20250623184740.png",
-    "images/Pasted image 20250623184355.png",
     "Mathematics for machine learning/Linear Algebra/Groups.md",
     "Mathematics for machine learning/Probability and Statistics/Marginal Distributions.md",
     "Mathematics for machine learning/Probability and Statistics/Bayes Theorem.md",
