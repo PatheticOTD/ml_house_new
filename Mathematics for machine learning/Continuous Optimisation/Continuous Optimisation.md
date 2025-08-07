@@ -15,3 +15,4 @@
 ![[Pasted image 20250807204134.png]]
 и Лагранжиан (Lagrangian dual problem):
 ![[Pasted image 20250807204212.png]]
+Также для оптимизируемых функций с ограничениями будет работать [[MiniMax Inequality]].

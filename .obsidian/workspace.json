@@ -28,14 +28,10 @@
             "id": "e9a7f19716a46604",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics for machine learning/Continuous Optimisation/Continuous Optimisation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Continuous Optimisation"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -245,12 +241,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6fa1abb60e86188d",
+  "active": "e9a7f19716a46604",
   "lastOpenFiles": [
     "Mathematics for machine learning/Continuous Optimisation/Continuous Optimisation.md",
+    "MiniMax Inequality.md",
+    "books/mml-book.pdf",
     "Pasted image 20250807204212.png",
     "Pasted image 20250807204134.png",
-    "books/mml-book.pdf",
     "Lagrange multipliers.md",
     "Pasted image 20250807203506.png",
     "Pasted image 20250807162757.png",
