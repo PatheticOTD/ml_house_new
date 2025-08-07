@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lagrange multipliers.md",
+                "file": "Mathematics for machine learning/Continuous Optimisation/Continuous Optimisation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lagrange multipliers"
+              "title": "Continuous Optimisation"
             }
           }
         ],
@@ -233,8 +233,9 @@
   },
   "active": "6cf6532226063f07",
   "lastOpenFiles": [
-    "Mathematics for machine learning/Continuous Optimisation/Continuous Optimisation.md",
+    "Lagrange multipliers.md",
     "books/mml-book.pdf",
+    "Mathematics for machine learning/Continuous Optimisation/Continuous Optimisation.md",
     "Constrained optimization.md",
     "ML&DL.md",
     "Mathematics for machine learning/Probability and Statistics/Product Rule.md",
@@ -243,7 +244,6 @@
     "MiniMax Inequality.md",
     "Pasted image 20250807204212.png",
     "Pasted image 20250807204134.png",
-    "Lagrange multipliers.md",
     "Pasted image 20250807203506.png",
     "Pasted image 20250807162757.png",
     "Mathematics for machine learning/Trust Region Policy Optimizaiton.md",
