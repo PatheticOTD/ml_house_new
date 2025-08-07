@@ -244,10 +244,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8497c31de7976f2",
+  "active": "6fa1abb60e86188d",
   "lastOpenFiles": [
-    "Mathematics for machine learning/Continuous Optimisation",
     "Mathematics for machine learning/Continuous Optimisation/Continuous Optimisation.md",
+    "Mathematics for machine learning/Continuous Optimisation",
     "ML&DL.md",
     "books/mml-book.pdf",
     "Mathematics for machine learning/Trust Region Policy Optimizaiton.md",
@@ -290,7 +290,6 @@
     "Mathematics for machine learning/Analytic Geometry",
     "DAC",
     "Mathematics for machine learning/Statistics",
-    "books",
-    "books/байесовская статистика.pdf"
+    "books"
   ]
 }
