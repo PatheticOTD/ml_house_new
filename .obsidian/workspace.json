@@ -231,13 +231,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6cf6532226063f07",
+  "active": "6fa1abb60e86188d",
   "lastOpenFiles": [
+    "Mathematics for machine learning/Continuous Optimisation/Continuous Optimisation.md",
+    "Constrained optimization.md",
     "ML&DL.md",
     "Mathematics for machine learning/Probability and Statistics/Product Rule.md",
     "Unconstrained optimization.md",
     "Mathematics for machine learning/Probability and Statistics/Probability theory and statistics.md",
-    "Mathematics for machine learning/Continuous Optimisation/Continuous Optimisation.md",
     "MiniMax Inequality.md",
     "books/mml-book.pdf",
     "Pasted image 20250807204212.png",
@@ -245,7 +246,6 @@
     "Lagrange multipliers.md",
     "Pasted image 20250807203506.png",
     "Pasted image 20250807162757.png",
-    "Constrained optimization.md",
     "Mathematics for machine learning/Trust Region Policy Optimizaiton.md",
     "Pasted image 20250807151925.png",
     "Mathematics for machine learning/Continuous Optimisation",
