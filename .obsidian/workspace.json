@@ -231,10 +231,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6cf6532226063f07",
+  "active": "6fa1abb60e86188d",
   "lastOpenFiles": [
-    "books/mml-book.pdf",
     "Mathematics for machine learning/Continuous Optimisation/Continuous Optimisation.md",
+    "books/mml-book.pdf",
     "Constrained optimization.md",
     "Lagrange multipliers.md",
     "ML&DL.md",
