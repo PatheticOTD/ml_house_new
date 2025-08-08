@@ -245,8 +245,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42d717bfb956689c",
+  "active": "6fa1abb60e86188d",
   "lastOpenFiles": [
+    "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
     "ML&DL.md",
     "Mathematics for machine learning/Continuous Optimisation/Continuous Optimisation.md",
     "Lagrange multipliers.md",
@@ -270,7 +271,6 @@
     "images/Pasted image 20250623190252.png",
     "DL/Self-Attention.md",
     "DL/Batch Normalization.md",
-    "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
     "DL/Layer Norm.md",
     "images/Pasted image 20250625163108.png",
     "images/Pasted image 20250623225828.png",
