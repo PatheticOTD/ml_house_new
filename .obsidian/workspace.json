@@ -52,8 +52,7 @@
               "title": "PPO-Penalty"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "9db218d6dd8cc186",
@@ -245,13 +244,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e3a374f63dc4212",
+  "active": "751a2433d40f32f9",
   "lastOpenFiles": [
+    "PPO-Penalty.md",
+    "Mathematics for machine learning/Continuous Optimisation/Continuous Optimisation.md",
     "DL/LSTM.md",
     "ML&DL.md",
-    "PPO-Penalty.md",
     "Proximal Policy Optimization.md",
-    "Mathematics for machine learning/Continuous Optimisation/Continuous Optimisation.md",
     "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
     "Mathematics for machine learning/Trust Region Policy Optimizaiton.md",
     "books/mml-book.pdf",
