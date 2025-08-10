@@ -1,0 +1,1 @@
+В [[Probability theory and statistics]] KL divergence обозначается как $D_{KL}(P||Q)$, где P - трушный
