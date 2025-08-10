@@ -116,7 +116,8 @@
 
 ##### Методы осп
 1. [[Trust Region Policy Optimizaiton]]
-2. 
+2. [[Proximal Policy Optimization]]
+3. 
 ### Audio Signal Processing
 
 Звук нуждается в предварительной обработке, перед тем, как мы его будем использовать.
