@@ -259,10 +259,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e3a374f63dc4212",
+  "active": "6fa1abb60e86188d",
   "lastOpenFiles": [
-    "books/mml-book.pdf",
     "Proximal Policy Optimization.md",
+    "Pasted image 20250810211126.png",
+    "books/mml-book.pdf",
     "Pasted image 20250810210803.png",
     "Pasted image 20250810192555.png",
     "Pasted image 20250810192129.png",
@@ -286,7 +287,6 @@
     "Mathematics for machine learning/Probability and Statistics/Probability theory and statistics.md",
     "MiniMax Inequality.md",
     "Pasted image 20250807204212.png",
-    "Pasted image 20250807204134.png",
     "Mathematics for machine learning/Continuous Optimisation",
     "Mathematics for machine learning/Probability and Statistics/Transition probability distribution.md",
     "DL/Bellman Equation.md",
