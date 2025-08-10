@@ -6,14 +6,7 @@
 
 **Trust Region Policy Optimization** (TRPO) вводит _ограничение_ на изменение политики между итерациями, чтобы гарантировать **монотонный рост вознаграждения** и избежать "разрушительных" апдейтов.
 
-TRPO буквально **переписывает задачу обучения с подкреплением** как задачу оптимизации с ограничением:
-
-$$max⁡θ  E^[πθ(a∣s)πθold(a∣s)A^(s,a)]\max_{\theta} \; \hat{\mathbb{E}} \left[ \frac{\pi_{\theta}(a|s)}{\pi_{\theta_{\text{old}}}(a|s)} \hat{A}(s,a) \right]θmax​E^[πθold​​(a∣s)πθ​(a∣s)​A^(s,a)]
-$$
-**при условии:**
-
-E^s[DKL(πθold(⋅∣s)  ∥  πθ(⋅∣s))]≤δ\hat{\mathbb{E}}_{s} \left[ D_{\mathrm{KL}}\left( \pi_{\theta_{\text{old}}}(\cdot|s) \;\|\; \pi_{\theta}(\cdot|s) \right) \right] \le \deltaE^s​[DKL​(πθold​​(⋅∣s)∥πθ​(⋅∣s))]≤δ
-
+![[Pasted image 20250810141548.png]]
 - **Целевая функция** — surrogate objective: аппроксимирует прирост вознаграждения.
     
 - **Ограничение** — средний KL-divergence между старой и новой политикой ≤ δ\deltaδ. Это _trust region_ — зона допустимого изменения параметров.
