@@ -4,4 +4,5 @@ ppo является ответом на тот же вопрос что и [[Tr
 2. [[PPO-Clip]]
 ППо апдейтит политику через:
 $$\theta_{k+1} = \arg \max_{\theta}E_{s,a
-~\pi_{\theta_{k}}}[L(s,a,\theta_{k},\theta)]$$
+\sim\pi_{\theta_{k}}}[L(s,a,\theta_{k},\theta)]$$
+Обычно для оптимизации используют SGD
