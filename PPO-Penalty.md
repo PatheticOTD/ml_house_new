@@ -1,1 +1,1 @@
-Штрафует 
+Штрафует за высокий [[Kullback-Leibler divergence]]
