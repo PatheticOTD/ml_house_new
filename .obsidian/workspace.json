@@ -44,12 +44,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PPO-Penalty.md",
+                "file": "PPO-Clip.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PPO-Penalty"
+              "title": "PPO-Clip"
             }
           },
           {
@@ -261,12 +261,13 @@
   },
   "active": "9e3a374f63dc4212",
   "lastOpenFiles": [
-    "Kullback-Leibler divergence.md",
+    "Proximal Policy Optimization.md",
+    "PPO-Clip.md",
     "PPO-Penalty.md",
+    "Kullback-Leibler divergence.md",
     "ML&DL.md",
     "Mathematics for machine learning/Continuous Optimisation/Continuous Optimisation.md",
     "DL/LSTM.md",
-    "Proximal Policy Optimization.md",
     "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
     "Mathematics for machine learning/Trust Region Policy Optimizaiton.md",
     "books/mml-book.pdf",
@@ -298,7 +299,6 @@
     "Mathematics for machine learning/Probability and Statistics/Bayes Theorem.md",
     "Mathematics for machine learning/Probability and Statistics/Beta Distribution.md",
     "conflict-files-obsidian-git.md",
-    "Mathematics for machine learning/Probability and Statistics/Bernoulli Distribution.md",
     "Exploration",
     "Mathematics for machine learning/Probability and Statistics",
     "books/nlp_intro.pdf",
