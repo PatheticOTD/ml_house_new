@@ -1,1 +1,1 @@
-В [[Probability theory and statistics]] KL divergence обозначается как $D_{KL}(P||Q)$, где P - трушный
+В [[Probability theory and statistics]] KL divergence обозначается как $D_{KL}(P||Q)$, чтобы определить, насколько отличается вероятностное распределение Q от настоящего вероятностного распределения P. Математически, это описывается как:$$D_{KL}(P||Q)=\sum\limits_{x\in X}P(x)\log{\frac{P(x)}{Q(x)}}$$
