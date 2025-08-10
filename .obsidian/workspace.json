@@ -67,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "9db218d6dd8cc186",
@@ -259,7 +259,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f97d44924a3082b2",
+  "active": "9e3a374f63dc4212",
   "lastOpenFiles": [
     "Kullback-Leibler divergence.md",
     "PPO-Penalty.md",
