@@ -113,7 +113,7 @@
 Это два подхода к обучению моделей. 
 [[Monte Carlo learning]] использует весь эпизод для обучения.
 [[Temporal Difference]] использует только шаг ($S_{t},A_{t},R_{t+1}, S_{t+1}$) для обучения.
-
+Иногда Очень полезно понять, насколько мы выигрываем или проигрываем, если выберем то или иное действие [[Advantage Function]]
 ##### Методы осп
 1. [[Trust Region Policy Optimizaiton]]
 2. [[Proximal Policy Optimization]]

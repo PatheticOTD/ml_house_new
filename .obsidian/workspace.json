@@ -66,8 +66,7 @@
               "title": "Kullback-Leibler divergence"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "9db218d6dd8cc186",
@@ -259,7 +258,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42d717bfb956689c",
+  "active": "751a2433d40f32f9",
   "lastOpenFiles": [
     "Proximal Policy Optimization.md",
     "Pasted image 20250810211126.png",
