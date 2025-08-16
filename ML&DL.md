@@ -175,4 +175,5 @@
 2) [[Transfer Learning]]
 3) [[Batch Normalization]]
 4) [[Normalization and Standardization]]
-5) [[Autoenco]]
+5) [[Autoencoders]]
+6) 
