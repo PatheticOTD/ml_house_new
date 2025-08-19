@@ -95,15 +95,17 @@
             }
           },
           {
-            "id": "0574a0ea8ead546b",
+            "id": "842f6cc264711236",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.10"
+                "file": "ML/Recall and Precision.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
+              "icon": "lucide-file",
+              "title": "Recall and Precision"
             }
           }
         ],
@@ -300,12 +302,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42d717bfb956689c",
+  "active": "842f6cc264711236",
   "lastOpenFiles": [
+    "ML/F1.md",
+    "ML&DL.md",
+    "Autoencoders.md",
     "books/mml-book.pdf",
     "Autoencoder.png",
-    "Autoencoders.md",
-    "ML&DL.md",
     "DL/tf-idf.md",
     "DL/term-document.md",
     "Advantage Function.md",
