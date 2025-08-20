@@ -302,8 +302,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42d717bfb956689c",
+  "active": "6fa1abb60e86188d",
   "lastOpenFiles": [
+    "ML/Recall and Precision.md",
     "ML/F1.md",
     "ML&DL.md",
     "Autoencoders.md",
@@ -341,7 +342,6 @@
     "DL/Transformers.md",
     "DL/Self-Attention.md",
     "DL/Batch Normalization.md",
-    "DL/Layer Norm.md",
     "Exploration",
     "Mathematics for machine learning/Probability and Statistics",
     "books/nlp_intro.pdf",
