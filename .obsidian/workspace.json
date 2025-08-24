@@ -316,14 +316,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42d717bfb956689c",
+  "active": "93b5d7679b183c88",
   "lastOpenFiles": [
+    "books/mml-book.pdf",
     "ML/Catboost algorithm.md",
     "ML&DL.md",
     "ML/Recall and Precision.md",
     "ML/F1.md",
     "Autoencoders.md",
-    "books/mml-book.pdf",
     "Autoencoder.png",
     "DL/tf-idf.md",
     "DL/term-document.md",
@@ -355,7 +355,6 @@
     "Mathematics for machine learning/Probability and Statistics/Transition probability distribution.md",
     "DL/Bellman Equation.md",
     "DL/Transformers.md",
-    "DL/Self-Attention.md",
     "Exploration",
     "Mathematics for machine learning/Probability and Statistics",
     "books/nlp_intro.pdf",
