@@ -122,8 +122,7 @@
               "title": "Catboost algorithm"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       },
       {
         "id": "9db218d6dd8cc186",
@@ -316,10 +315,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93b5d7679b183c88",
+  "active": "751a2433d40f32f9",
   "lastOpenFiles": [
-    "books/mml-book.pdf",
     "ML/Catboost algorithm.md",
+    "books/mml-book.pdf",
     "ML&DL.md",
     "ML/Recall and Precision.md",
     "ML/F1.md",
