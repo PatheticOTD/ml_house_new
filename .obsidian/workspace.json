@@ -25,6 +25,18 @@
             }
           },
           {
+            "id": "7ab7d31738528c49",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
+          },
+          {
             "id": "6cf6532226063f07",
             "type": "leaf",
             "state": {
@@ -122,7 +134,8 @@
               "title": "Catboost algorithm"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9db218d6dd8cc186",
@@ -315,7 +328,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "751a2433d40f32f9",
+  "active": "42d717bfb956689c",
   "lastOpenFiles": [
     "ML/Catboost algorithm.md",
     "books/mml-book.pdf",
