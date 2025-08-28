@@ -330,8 +330,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42d717bfb956689c",
+  "active": "6fa1abb60e86188d",
   "lastOpenFiles": [
+    "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
     "ML&DL.md",
     "books/mml-book.pdf",
     "ML/Catboost algorithm.md",
@@ -354,7 +355,6 @@
     "Kullback-Leibler divergence.md",
     "Mathematics for machine learning/Continuous Optimisation/Continuous Optimisation.md",
     "DL/LSTM.md",
-    "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
     "Mathematics for machine learning/Trust Region Policy Optimizaiton.md",
     "Pasted image 20250810143724.png",
     "Pasted image 20250810143004.png",
