@@ -330,10 +330,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42d717bfb956689c",
+  "active": "6fa1abb60e86188d",
   "lastOpenFiles": [
-    "books/mml-book.pdf",
     "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
+    "books/mml-book.pdf",
     "ML&DL.md",
     "ML/Catboost algorithm.md",
     "ML/Recall and Precision.md",
