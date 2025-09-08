@@ -25,17 +25,17 @@
             }
           },
           {
-            "id": "aa60e8f24ff2dfef",
+            "id": "bc775b8bd9719f9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Top-k sampling.md",
+                "file": "Top-p Sampling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Top-k sampling"
+              "title": "Top-p Sampling"
             }
           }
         ],
@@ -232,10 +232,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa60e8f24ff2dfef",
+  "active": "bc775b8bd9719f9b",
   "lastOpenFiles": [
-    "Top-k sampling.md",
+    "Pasted image 20250908125602.png",
+    "Top-p Sampling.md",
     "ML&DL.md",
+    "Top-k sampling.md",
     "Proximal Policy Optimization.md",
     "Kullback-Leibler divergence.md",
     "Greedy Search.md",
@@ -269,9 +271,7 @@
     "Mathematics for machine learning/Probability and Statistics/Product Rule.md",
     "Unconstrained optimization.md",
     "Mathematics for machine learning/Probability and Statistics/Probability theory and statistics.md",
-    "MiniMax Inequality.md",
     "Mathematics for machine learning/Continuous Optimisation",
-    "Mathematics for machine learning/Probability and Statistics/Transition probability distribution.md",
     "Exploration",
     "Mathematics for machine learning/Probability and Statistics",
     "books/nlp_intro.pdf",
