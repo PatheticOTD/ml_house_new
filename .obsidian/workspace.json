@@ -66,8 +66,7 @@
               "title": "Kullback-Leibler divergence"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "9db218d6dd8cc186",
@@ -260,12 +259,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e3a374f63dc4212",
+  "active": "751a2433d40f32f9",
   "lastOpenFiles": [
+    "Proximal Policy Optimization.md",
     "Mathematics for machine learning/Continuous Optimisation/Continuous Optimisation.md",
     "Kullback-Leibler divergence.md",
     "Advantage Function.md",
-    "Proximal Policy Optimization.md",
     "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
     "books/mml-book.pdf",
     "ML&DL.md",
