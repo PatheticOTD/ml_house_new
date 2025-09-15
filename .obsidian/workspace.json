@@ -38,8 +38,7 @@
               "title": "Retrieval-Augmented Generation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9db218d6dd8cc186",
@@ -132,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c51ec527b41c23bf",
@@ -232,7 +230,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42d717bfb956689c",
+  "active": "751a2433d40f32f9",
   "lastOpenFiles": [
     "Retrieval-Augmented Generation.md",
     "ML&DL.md",
