@@ -30,15 +30,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retrieval-Augmented Generation.md",
+                "file": "ML&DL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Retrieval-Augmented Generation"
+              "title": "ML&DL"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9db218d6dd8cc186",
@@ -72,9 +73,21 @@
               "icon": "lucide-file-text",
               "title": "mml-book"
             }
+          },
+          {
+            "id": "212d6347ba3ed092",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Autoencoder.png"
+              },
+              "icon": "lucide-image",
+              "title": "Autoencoder"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -230,45 +243,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6fa1abb60e86188d",
+  "active": "ea46b133ace5b6ac",
   "lastOpenFiles": [
-    "ML&DL.md",
-    "Retrieval-Augmented Generation.md",
-    "Top-p Sampling.md",
-    "Temperature.md",
-    "Pasted image 20250908130601.png",
-    "DL/Softmax.md",
-    "Pasted image 20250908130405.png",
+    "DL/Greedy Search.md",
+    "DL/Top-p Sampling.md",
+    "Mathematics for machine learning/Continuous Optimisation/Unconstrained optimization.md",
+    "Mathematics for machine learning/Probability and Statistics/Kullback-Leibler divergence.md",
+    "DL/Retrieval-Augmented Generation.md",
+    "images/Autoencoder.png",
+    "images/Pasted image 20250807151925.png",
+    "images/Pasted image 20250908123505.png",
     "books/mml-book.pdf",
-    "Pasted image 20250908125602.png",
-    "Top-k sampling.md",
-    "Proximal Policy Optimization.md",
-    "Kullback-Leibler divergence.md",
-    "Greedy Search.md",
-    "Beam Search.md",
-    "Pasted image 20250908123747.png",
-    "Pasted image 20250908123505.png",
+    "ML&DL.md",
+    "DL/Temperature.md",
+    "images/Pasted image 20250908130601.png",
+    "DL/Softmax.md",
+    "images/Pasted image 20250908130405.png",
+    "images/Pasted image 20250908125602.png",
+    "DL/Top-k sampling.md",
+    "DL/Proximal Policy Optimization.md",
+    "DL/Beam Search.md",
+    "images/Pasted image 20250908123747.png",
     "Mathematics for machine learning/Continuous Optimisation/Continuous Optimisation.md",
-    "Advantage Function.md",
+    "DL/Advantage Function.md",
     "Mathematics for machine learning/Linear Algebra/Linear Algebra.md",
     "ML/Catboost algorithm.md",
     "ML/Recall and Precision.md",
     "ML/F1.md",
-    "Autoencoders.md",
-    "Autoencoder.png",
+    "DL/Autoencoders.md",
     "DL/tf-idf.md",
     "DL/term-document.md",
-    "advantage2.png",
-    "Pasted image 20250810211126.png",
-    "Pasted image 20250810210803.png",
-    "Pasted image 20250810192555.png",
-    "PPO-Clip.md",
-    "PPO-Penalty.md",
+    "images/advantage2.png",
+    "images/Pasted image 20250810211126.png",
+    "images/Pasted image 20250810210803.png",
+    "DL/PPO-Clip.md",
+    "DL/PPO-Penalty.md",
     "DL/LSTM.md",
     "Mathematics for machine learning/Trust Region Policy Optimizaiton.md",
-    "Lagrange multipliers.md",
-    "Constrained optimization.md",
-    "Mathematics for machine learning/Probability and Statistics/Product Rule.md",
+    "Mathematics for machine learning/Continuous Optimisation/Lagrange multipliers.md",
+    "Mathematics for machine learning/Continuous Optimisation/Constrained optimization.md",
     "Mathematics for machine learning/Continuous Optimisation",
     "Exploration",
     "Mathematics for machine learning/Probability and Statistics",
