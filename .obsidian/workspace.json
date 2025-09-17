@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML&DL.md",
+                "file": "Chat Templates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ML&DL"
+              "title": "Chat Templates"
             }
           }
         ],
@@ -245,6 +245,8 @@
   },
   "active": "ea46b133ace5b6ac",
   "lastOpenFiles": [
+    "ML&DL.md",
+    "Chat Templates.md",
     "DL/Greedy Search.md",
     "DL/Top-p Sampling.md",
     "Mathematics for machine learning/Continuous Optimisation/Unconstrained optimization.md",
@@ -254,7 +256,6 @@
     "images/Pasted image 20250807151925.png",
     "images/Pasted image 20250908123505.png",
     "books/mml-book.pdf",
-    "ML&DL.md",
     "DL/Temperature.md",
     "images/Pasted image 20250908130601.png",
     "DL/Softmax.md",
@@ -281,7 +282,6 @@
     "DL/LSTM.md",
     "Mathematics for machine learning/Trust Region Policy Optimizaiton.md",
     "Mathematics for machine learning/Continuous Optimisation/Lagrange multipliers.md",
-    "Mathematics for machine learning/Continuous Optimisation/Constrained optimization.md",
     "Mathematics for machine learning/Continuous Optimisation",
     "Exploration",
     "Mathematics for machine learning/Probability and Statistics",
