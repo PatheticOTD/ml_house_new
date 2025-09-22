@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Supervised Fine-Tuning.md",
+                "file": "LoRA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Supervised Fine-Tuning"
+              "title": "LoRA"
             }
           }
         ],
@@ -234,6 +234,8 @@
   "active": "ee8405c40b6e8df9",
   "lastOpenFiles": [
     "Supervised Fine-Tuning.md",
+    "LoRA.md",
+    "PEFT.md",
     "ML&DL.md",
     "Chat Templates.md",
     "ML/Catboost algorithm.md",
@@ -268,8 +270,6 @@
     "images/Pasted image 20250810210803.png",
     "DL/PPO-Clip.md",
     "DL/PPO-Penalty.md",
-    "DL/LSTM.md",
-    "Mathematics for machine learning/Trust Region Policy Optimizaiton.md",
     "Mathematics for machine learning/Continuous Optimisation",
     "Exploration",
     "Mathematics for machine learning/Probability and Statistics",
