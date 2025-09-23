@@ -44,12 +44,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Supervised Fine-Tuning.md",
+                "file": "LoRA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Supervised Fine-Tuning"
+              "title": "LoRA"
             }
           }
         ],
@@ -245,11 +245,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42d717bfb956689c",
+  "active": "e70732eadfd31906",
   "lastOpenFiles": [
+    "Supervised Fine-Tuning.md",
     "QAT.md",
     "qLoRA.md",
-    "Supervised Fine-Tuning.md",
     "PTQ.md",
     "ML&DL.md",
     "LoRA.md",
