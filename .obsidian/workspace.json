@@ -216,14 +216,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42d717bfb956689c",
+  "active": "6fa1abb60e86188d",
   "lastOpenFiles": [
+    "ML&DL.md",
     "qLoRA.md",
     "LoRA.md",
     "Supervised Fine-Tuning.md",
     "QAT.md",
     "PTQ.md",
-    "ML&DL.md",
     "PEFT.md",
     "Chat Templates.md",
     "ML/Catboost algorithm.md",
