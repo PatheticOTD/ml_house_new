@@ -190,4 +190,10 @@
 3) [[Batch Normalization]]
 4) [[Normalization and Standardization]]
 5) [[Autoencoders]]
-6) 
+
+### AI safety research
+примерное название темы: "Анализ и сравнение методов фильтрации и контроля контента в генеративных языковых моделях: эффективность, ограничения и этические компромиссы"
+
+Набор ссылок:
+1. https://www.gov.uk/government/publications/international-ai-safety-report-2025/international-ai-safety-report-2025
+2. 
