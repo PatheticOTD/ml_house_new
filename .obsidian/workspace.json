@@ -37,21 +37,9 @@
               "icon": "lucide-file",
               "title": "ML&DL"
             }
-          },
-          {
-            "id": "88915629f323b325",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "9db218d6dd8cc186",
@@ -243,7 +231,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42d717bfb956689c",
+  "active": "a908c962d93c54d9",
   "lastOpenFiles": [
     "Mathematics for machine learning/Probability and Statistics/Beta Distribution.md",
     "ML&DL.md",
