@@ -2,6 +2,7 @@
 [[Analytic Geometry]]
 [[Probability theory and statistics]]
 [[Continuous Optimisation]]
+[[Time Series Analysis]]
 # Classic ML:
 #### Алгоритмы кластеризации:
 1) [[K-means]]
